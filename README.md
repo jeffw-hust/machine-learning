@@ -13,4 +13,4 @@
 
 ### Recommendation-System
 * Bandit
-  * [Multi-armed Bandit Problems with Dependent Arms](Multi-armed Bandit Problems with Dependent Arms)   Yahoo! Research, Sunnyvale, CA
+  * [Multi-armed Bandit Problems with Dependent Arms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.5721&rep=rep1&type=pdf)   Yahoo! Research, Sunnyvale, CA
