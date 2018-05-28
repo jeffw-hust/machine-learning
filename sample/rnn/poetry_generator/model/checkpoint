@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-32001"
+all_model_checkpoint_paths: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-28001"
+all_model_checkpoint_paths: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-29001"
+all_model_checkpoint_paths: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-30001"
+all_model_checkpoint_paths: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-31001"
+all_model_checkpoint_paths: "/Users/jeffw/workspace/jeffwang/github/machine-learning/sample/rnn/poetry_generator/model/model.ckpt-32001"
